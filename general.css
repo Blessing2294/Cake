@@ -1,0 +1,245 @@
+body{
+    height: 3500px;
+    
+}
+
+.unilag-quote{
+    margin-top: 10px;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0 0 1px black;
+}
+
+.img-icon{
+    width: 130px;
+    margin-top: 0;
+    object-fit: contain;
+}
+
+#quote{
+    font-weight: 800;
+    font-size: 15px;
+    margin: 0;
+}
+
+#unilag-pride{
+    margin: 0;
+    font-weight: 400;
+    font-size: 78px;
+}
+
+#unilag-domain{
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.pause{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    
+}
+#pause-img{
+    margin-top: 200px;
+    margin-bottom: 0;
+    margin-left: 25px;
+}
+
+.location-sec{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    color: #ffffff;
+    text-shadow: 0 0 1px black;
+}
+#h5-yr{
+    padding-left: 43px;
+}
+
+
+
+.container-2{
+    background-color: lightyellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    height: 200px;
+
+}
+.vision{
+    margin-top: 10px;
+   margin-left: 190px;
+   width: 377px;
+   height: 225px;
+
+}
+
+#vision-p{
+    font-size: 18px;
+}
+#vision-h2{
+    font-size: 28px;
+}
+
+#mission-p{
+    font-size: 18px;
+}
+
+.mission{
+    margin: 10px 200px 10px 0;
+    width: 400px;
+    height: 150px;
+    padding: 10px 10px 10px;
+    background-color: #000000;
+    color: #ffffff;
+}
+#mission-h2{
+    margin-top: 0;
+    padding-top: 0px;
+    font-size: 28px;
+}
+
+
+#updates{
+    color: #800000;
+    padding-top: 80px;
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+
+#unilag-news{
+    font-size: 49px;
+    padding-bottom: 5px;
+}
+
+#hr{
+    border: 1px solid #000000;
+}
+
+.prof-pic{
+    margin-bottom: 0px;
+    width: 720px;
+}
+#Appointment{
+    margin-left: 10px;
+}
+#unilag-updates{
+    font-size: 18px;
+    color: #800000;
+}
+
+.card{
+    margin-top: 0px;
+    box-shadow: 0 6px 8px 0 rgba(0,0,0,0.3);
+    width: 720px;
+    margin-right: 20px;
+    
+}
+
+.incard{
+    padding:5px 15px 30px 35px;
+}
+
+#h2-2{
+    font-size: 28px;
+}
+#p-2{
+    font-size: 16px;
+    color: #9b9898;
+}
+
+
+.news{
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+}
+.images{
+    width: 250px;
+}
+.sections{
+    padding-left: 25px;
+}
+.p-3{
+    color: #800000;
+}
+.h3-1{
+    font-size: medium;
+    font-weight: 700;
+}
+
+.hr{
+    margin: 20px 0 30px;
+}
+.general-new{
+    margin-left: 7px;
+}
+
+
+.general-news{
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+    
+}
+
+#see-More{
+    margin-top: 50px;
+    margin-left: 600px;
+   
+    
+}
+.see-more{
+    border: 1px solid black;
+    background-color: #ffffff;
+    padding: 20px 40px;
+    margin-bottom: 70px;
+}
+
+#we-are{
+    color: #800000;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+#vc-vision{
+    font-size: 50px;
+}
+
+.future-sec{
+    margin: 0 90px;
+}
+
+.vision-sec{
+    margin-top: 30px;
+    background-color: lightyellow;
+    padding: 10px 40px 88px 35px;
+}
+
+#inside-sec{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 46px;
+}
+
+#vc-name{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+#qualifications{
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(177, 175, 175);
+}
+
+#Agenda{
+    padding: 20px 30px;
+    background-color: white;
+    border: 1px solid black;
+}
